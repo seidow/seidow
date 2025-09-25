@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seidow
 - I'm a computer sceince student
-- 👀 I’m interested in cybersecurity, programming, and web development
+- 👀 I’m interested in Machine Learning, cybersecurity, programming, and web development
 
 <!---
 seidow/seidow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
